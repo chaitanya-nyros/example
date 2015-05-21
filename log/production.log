@@ -1,0 +1,220 @@
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 19943)
+Compiled jquery_ujs.js  (0ms)  (pid 19943)
+Compiled script.js  (0ms)  (pid 19943)
+Compiled bootstrap.min.js  (0ms)  (pid 19943)
+Compiled jquery-ui/core.js  (0ms)  (pid 19943)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 19943)
+Compiled studentrecs.js  (188ms)  (pid 19943)
+Compiled application.js  (217ms)  (pid 19943)
+Compiled jquery-ui/theme.css  (89ms)  (pid 19943)
+Compiled jquery-ui/core.css  (93ms)  (pid 19943)
+Compiled jquery-ui/datepicker.css  (99ms)  (pid 19943)
+Compiled style.css  (0ms)  (pid 19943)
+Compiled default.css  (0ms)  (pid 19943)
+Compiled bootstrap.min.css  (0ms)  (pid 19943)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0xa3b2e00>
+
+Compiled scaffolds.css  (10ms)  (pid 19943)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0xa3b2e00>
+
+Compiled studentrecs.css  (4ms)  (pid 19943)
+Compiled application.css  (135ms)  (pid 19943)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20257)
+Compiled jquery_ujs.js  (0ms)  (pid 20257)
+Compiled script.js  (0ms)  (pid 20257)
+Compiled bootstrap.min.js  (0ms)  (pid 20257)
+Compiled jquery-ui/core.js  (0ms)  (pid 20257)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20257)
+Compiled studentrecs.js  (185ms)  (pid 20257)
+Compiled application.js  (219ms)  (pid 20257)
+Compiled jquery-ui/theme.css  (82ms)  (pid 20257)
+Compiled jquery-ui/core.css  (85ms)  (pid 20257)
+Compiled jquery-ui/datepicker.css  (90ms)  (pid 20257)
+Compiled style.css  (0ms)  (pid 20257)
+Compiled default.css  (0ms)  (pid 20257)
+Compiled bootstrap.min.css  (0ms)  (pid 20257)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9c1bb88>
+
+Compiled scaffolds.css  (10ms)  (pid 20257)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9c1bb88>
+
+Compiled studentrecs.css  (1ms)  (pid 20257)
+Compiled application.css  (118ms)  (pid 20257)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20273)
+Compiled jquery_ujs.js  (0ms)  (pid 20273)
+Compiled script.js  (0ms)  (pid 20273)
+Compiled bootstrap.min.js  (0ms)  (pid 20273)
+Compiled jquery-ui/core.js  (0ms)  (pid 20273)
+Compiled jquery-ui/datepicker.js  (7ms)  (pid 20273)
+Compiled studentrecs.js  (187ms)  (pid 20273)
+Compiled application.js  (224ms)  (pid 20273)
+Compiled jquery-ui/theme.css  (83ms)  (pid 20273)
+Compiled jquery-ui/core.css  (86ms)  (pid 20273)
+Compiled jquery-ui/datepicker.css  (90ms)  (pid 20273)
+Compiled style.css  (0ms)  (pid 20273)
+Compiled default.css  (0ms)  (pid 20273)
+Compiled bootstrap.min.css  (0ms)  (pid 20273)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9e76f54>
+
+Compiled scaffolds.css  (10ms)  (pid 20273)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9e76f54>
+
+Compiled studentrecs.css  (2ms)  (pid 20273)
+Compiled application.css  (119ms)  (pid 20273)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20273)
+Compiled jquery_ujs.js  (0ms)  (pid 20273)
+Compiled script.js  (0ms)  (pid 20273)
+Compiled bootstrap.min.js  (0ms)  (pid 20273)
+Compiled jquery-ui/core.js  (0ms)  (pid 20273)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20273)
+Compiled studentrecs.js  (188ms)  (pid 20273)
+Compiled application.js  (217ms)  (pid 20273)
+Compiled jquery-ui/theme.css  (54ms)  (pid 20273)
+Compiled jquery-ui/core.css  (57ms)  (pid 20273)
+Compiled jquery-ui/datepicker.css  (61ms)  (pid 20273)
+Compiled style.css  (0ms)  (pid 20273)
+Compiled default.css  (0ms)  (pid 20273)
+Compiled bootstrap.min.css  (0ms)  (pid 20273)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x97f3574>
+
+Compiled scaffolds.css  (10ms)  (pid 20273)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x97f3574>
+
+Compiled studentrecs.css  (1ms)  (pid 20273)
+Compiled application.css  (89ms)  (pid 20273)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20295)
+Compiled jquery_ujs.js  (0ms)  (pid 20295)
+Compiled script.js  (0ms)  (pid 20295)
+Compiled bootstrap.min.js  (0ms)  (pid 20295)
+Compiled jquery-ui/core.js  (0ms)  (pid 20295)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20295)
+Compiled studentrecs.js  (187ms)  (pid 20295)
+Compiled application.js  (216ms)  (pid 20295)
+Compiled jquery-ui/theme.css  (76ms)  (pid 20295)
+Compiled jquery-ui/core.css  (79ms)  (pid 20295)
+Compiled jquery-ui/datepicker.css  (83ms)  (pid 20295)
+Compiled style.css  (0ms)  (pid 20295)
+Compiled default.css  (0ms)  (pid 20295)
+Compiled bootstrap.min.css  (0ms)  (pid 20295)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0xb0e625c>
+
+Compiled scaffolds.css  (10ms)  (pid 20295)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0xb0e625c>
+
+Compiled studentrecs.css  (1ms)  (pid 20295)
+Compiled application.css  (111ms)  (pid 20295)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20295)
+Compiled jquery_ujs.js  (0ms)  (pid 20295)
+Compiled script.js  (0ms)  (pid 20295)
+Compiled bootstrap.min.js  (0ms)  (pid 20295)
+Compiled jquery-ui/core.js  (0ms)  (pid 20295)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20295)
+Compiled studentrecs.js  (190ms)  (pid 20295)
+Compiled application.js  (219ms)  (pid 20295)
+Compiled jquery-ui/theme.css  (37ms)  (pid 20295)
+Compiled jquery-ui/core.css  (39ms)  (pid 20295)
+Compiled jquery-ui/datepicker.css  (44ms)  (pid 20295)
+Compiled style.css  (0ms)  (pid 20295)
+Compiled default.css  (0ms)  (pid 20295)
+Compiled bootstrap.min.css  (0ms)  (pid 20295)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9714270>
+
+Compiled scaffolds.css  (9ms)  (pid 20295)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9714270>
+
+Compiled studentrecs.css  (1ms)  (pid 20295)
+Compiled application.css  (70ms)  (pid 20295)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20655)
+Compiled jquery_ujs.js  (0ms)  (pid 20655)
+Compiled script.js  (0ms)  (pid 20655)
+Compiled bootstrap.min.js  (0ms)  (pid 20655)
+Compiled jquery-ui/core.js  (0ms)  (pid 20655)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20655)
+Compiled studentrecs.js  (187ms)  (pid 20655)
+Compiled application.js  (217ms)  (pid 20655)
+Compiled jquery-ui/theme.css  (76ms)  (pid 20655)
+Compiled jquery-ui/core.css  (79ms)  (pid 20655)
+Compiled jquery-ui/datepicker.css  (83ms)  (pid 20655)
+Compiled style.css  (0ms)  (pid 20655)
+Compiled default.css  (0ms)  (pid 20655)
+Compiled bootstrap.min.css  (0ms)  (pid 20655)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9e06bc8>
+
+Compiled scaffolds.css  (10ms)  (pid 20655)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9e06bc8>
+
+Compiled studentrecs.css  (1ms)  (pid 20655)
+Compiled application.css  (111ms)  (pid 20655)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 20655)
+Compiled jquery_ujs.js  (0ms)  (pid 20655)
+Compiled script.js  (0ms)  (pid 20655)
+Compiled bootstrap.min.js  (0ms)  (pid 20655)
+Compiled jquery-ui/core.js  (0ms)  (pid 20655)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 20655)
+Compiled studentrecs.js  (186ms)  (pid 20655)
+Compiled application.js  (215ms)  (pid 20655)
+Compiled jquery-ui/theme.css  (43ms)  (pid 20655)
+Compiled jquery-ui/core.css  (46ms)  (pid 20655)
+Compiled jquery-ui/datepicker.css  (50ms)  (pid 20655)
+Compiled style.css  (0ms)  (pid 20655)
+Compiled default.css  (0ms)  (pid 20655)
+Compiled bootstrap.min.css  (0ms)  (pid 20655)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9a1d4f8>
+
+Compiled scaffolds.css  (9ms)  (pid 20655)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9a1d4f8>
+
+Compiled studentrecs.css  (1ms)  (pid 20655)
+Compiled application.css  (76ms)  (pid 20655)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 21901)
+Compiled jquery_ujs.js  (0ms)  (pid 21901)
+Compiled script.js  (0ms)  (pid 21901)
+Compiled bootstrap.min.js  (0ms)  (pid 21901)
+Compiled jquery-ui/core.js  (0ms)  (pid 21901)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 21901)
+Compiled studentrecs.js  (191ms)  (pid 21901)
+Compiled application.js  (220ms)  (pid 21901)
+Compiled jquery-ui/theme.css  (77ms)  (pid 21901)
+Compiled jquery-ui/core.css  (80ms)  (pid 21901)
+Compiled jquery-ui/datepicker.css  (84ms)  (pid 21901)
+Compiled style.css  (0ms)  (pid 21901)
+Compiled default.css  (0ms)  (pid 21901)
+Compiled bootstrap.min.css  (0ms)  (pid 21901)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x9f96344>
+
+Compiled scaffolds.css  (10ms)  (pid 21901)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x9f96344>
+
+Compiled studentrecs.css  (1ms)  (pid 21901)
+Compiled application.css  (111ms)  (pid 21901)
+Connecting to database specified by database.yml
+Compiled jquery.js  (4ms)  (pid 21901)
+Compiled jquery_ujs.js  (0ms)  (pid 21901)
+Compiled script.js  (0ms)  (pid 21901)
+Compiled bootstrap.min.js  (0ms)  (pid 21901)
+Compiled jquery-ui/core.js  (0ms)  (pid 21901)
+Compiled jquery-ui/datepicker.js  (4ms)  (pid 21901)
+Compiled studentrecs.js  (252ms)  (pid 21901)
+Compiled application.js  (281ms)  (pid 21901)
+Compiled jquery-ui/theme.css  (36ms)  (pid 21901)
+Compiled jquery-ui/core.css  (39ms)  (pid 21901)
+Compiled jquery-ui/datepicker.css  (43ms)  (pid 21901)
+Compiled style.css  (0ms)  (pid 21901)
+Compiled default.css  (0ms)  (pid 21901)
+Compiled bootstrap.min.css  (0ms)  (pid 21901)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/scaffolds.css.scssc: can't dump anonymous class #<Class:0x977ff48>
+
+Compiled scaffolds.css  (9ms)  (pid 21901)
+Warning. Error encountered while saving cache /home/nyros/Desktop/student_reg_form/tmp/cache/sass/a5738001c7de9b38b6f0d9e648d5f1b2743f51f7/studentrecs.css.scssc: can't dump anonymous class #<Class:0x977ff48>
+
+Compiled studentrecs.css  (1ms)  (pid 21901)
+Compiled application.css  (70ms)  (pid 21901)

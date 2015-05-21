@@ -1,0 +1,73 @@
+<body>
+
+<nav class="navbar navbar-inverse navbar-no-bg" role="navigation">
+      
+        <div class="navbar-header">
+          <a class="navbar-brand" style= "color: white">New Student Records</a>
+        </div>
+        
+        
+      </div>
+    </nav>      
+
+<%= form_for(@studentrec, :html => {:multipart => true}) do |f| %>
+  <% if @studentrec.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@studentrec.errors.count, "error") %> prohibited this studentrecord from being saved:</h2>
+
+      <ul>
+      <% @studentrec.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<div class="top-content">
+  <div class="inner-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7 text">
+          <h1><strong style = "color : white">Student</strong> Registration Form</h1>
+        </div>
+        <div class="col-sm-5 form-box" style="margin:-83px 0px 0px 0px;">
+          <div class="form-top">
+            <div class="form-top-left">
+              <h3>Sign up now</h3>
+              <p>Fill in the form below to get instant access:</p>
+            </div>
+          </div>
+            <div class="form-bottom">
+              <form role="form" class="registration-form">  
+                <div class="form-group">
+                  <%= f.text_field :name,  :placeholder => "Name"%>
+                </div>
+                <div class="form-group">
+                  <%= f.text_area :address,  :placeholder => "Address"%>
+                </div>
+                <div class="form-group">
+                  <%= f.text_field :birthday, :placeholder => "Birthday" %>
+                </div>
+                <div class="form-group">
+                  <%= f.radio_button(:gender, "male") %>
+                  <%= f.label(:gender_male, "MALE") %><br>
+                  <%= f.radio_button(:gender, "female") %>
+                  <%= f.label(:gender_female, "FEMALE") %>
+                </div>
+                <div class="form-group">
+                  <%= check_box_tag(:cse) %>
+                  <%= label_tag(:cse, "CSE") %><br>
+                  <%= check_box_tag(:ece) %>
+                  <%= label_tag(:pet_cat, "ECE") %>
+                </div>
+                
+                <div class="form-group">
+                  <%= f.file_field :image %>
+                </div>
+                <div class="form-group">
+                  <%= f.submit "Submit" , class: "btn btn-info"%>
+                </div>
+       
+  <% end %>
+</form>
+</body>

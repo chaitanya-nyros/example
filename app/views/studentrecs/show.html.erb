@@ -1,0 +1,36 @@
+<p id="notice"><%= notice %></p>
+
+
+<p>
+  <b>Name:</b>
+  <%= @studentrec.name %>
+</p>
+
+<p>
+  <b>Address:</b>
+  <%= @studentrec.address %>
+</p>
+
+<p>
+  <b>Gender:</b>
+  <%= @studentrec.gender %>
+</p>
+
+
+
+<p>
+  <b>Birthday:</b>
+  <%= @studentrec.birthday %>
+</p>
+
+
+  
+  <% if @studentrec.image? %>
+  	<%= image_tag @studentrec.image.url %>
+  	<br>
+  	<%= link_to @studentrec.image.url, @studentrec.image.url %>
+  <% end %>
+
+
+<%= link_to 'Edit', edit_studentrec_path(@studentrec) %> |
+<%= link_to 'Back', studentrecs_path %>

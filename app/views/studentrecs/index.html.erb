@@ -1,0 +1,41 @@
+
+
+<nav class="navbar navbar-inverse navbar-no-bg" role="navigation">
+      
+        <div class="navbar-header">
+          <a class="navbar-brand" style= "color: white">Listing Student Records</a>
+        </div>
+        
+        
+      </div>
+    </nav>  
+<table>
+  <tr>
+    <th style=" padding: 0px 0px 0px 64px;text-align: left;">Name</th>
+    <th style=" padding: 0px 0px 0px 64px;text-align: left;">Address</th>
+    <th style=" padding: 0px 0px 0px 64px;text-align: left;">Gender</th>
+    
+    <th style=" padding: 0px 0px 0px 64px;text-align: left;">Birthday</th>
+    <th style=" padding: 0px 0px 0px 0px;text-align: left;">Image</th>
+    
+    <th></th>
+  </tr>
+
+<% @studentrecs.each do |studentrec| %>
+  <tr>
+    <td style="padding: 25px 0px 0px 70px;text-align:left"><%= studentrec.name %></td>
+    <td style="padding: 25px 0px 0px 70px;text-align:left"><%= studentrec.address %></td>
+    <td style="padding: 25px 0px 0px 70px;text-align:left"><%= studentrec.gender %></td>
+    <td style="padding: 25px 148px 0px 70px;text-align:left"><%= studentrec.birthday %></td>
+    <td style="padding: 25px 148px 0px 0px;text-align:left"><%= studentrec.image_file_name %></td>
+    <td  class ="btn" ><%= link_to 'Show', studentrec %></td>
+    <td class ="btn" ><%= link_to 'Edit', edit_studentrec_path(studentrec) %></td>
+    <td class ="btn" ><%= link_to 'Destroy', studentrec, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+  
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New studentrec', new_studentrec_path %>
